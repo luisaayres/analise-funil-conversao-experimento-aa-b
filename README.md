@@ -66,4 +66,4 @@ Os testes estatísticos foram utilizados para verificar se a alteração das fon
 
 A análise completa pode ser consultada no notebook:
 
-[👉 Acessar o notebook do projeto](analise_funil_experimento_aa_b.ipynb)
+[👉 Acessar o notebook do projeto](analise-funil-conversao-experimento-aa-b.ipynb)
