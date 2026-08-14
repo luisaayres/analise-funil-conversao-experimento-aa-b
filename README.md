@@ -62,6 +62,17 @@ Em seguida, o grupo experimental (248) foi comparado individualmente com cada gr
 
 Os testes estatísticos foram utilizados para verificar se a alteração das fontes produziu diferenças estatisticamente significativas no comportamento dos usuários. Também foi aplicada a correção de Bonferroni, considerando o efeito das comparações múltiplas e reduzindo o risco de falsos positivos.
 
+📈 Principais resultados
+- Foram analisados 244.126 registros inicialmente;
+- 413 registros duplicados foram identificados e removidos;
+- A base final utilizada na análise possui 243.713 eventos;
+- Foram identificados 7.551 usuários;
+- A média foi de aproximadamente 32,28 eventos por usuário;
+- A conversão total do funil foi de 47,7%;
+- O teste A/A foi utilizado para validar a consistência entre os grupos de controle;
+- O grupo experimental foi comparado com os grupos de controle individualmente e combinados;
+- Foi aplicada a correção de Bonferroni, com nível de significância ajustado para 0,0025.
+
 ## 📓 Notebook
 
 A análise completa pode ser consultada no notebook:
